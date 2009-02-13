@@ -1,0 +1,35 @@
+# Nokia 5220 XpressMusic iSync Plugin
+
+An [iSync][] Plugin for the [Nokia 5220 XpressMusic][5220] mobile phone.
+
+Supports syncing contacts and calendars.
+
+Support syncing over Bluetooth, but **not** over USB.
+
+## Requirements
+
+Tested on Mac OS X version X.5 with iSync 3.0.2. May work with other versions
+as well.
+
+## Installation
+
+* Copy the bundle `Nokia-5220-XpressMusic.phoneplugin` to the
+  `Library/PhonePlugins` directory (in your Home directory or in the Computer
+  directory, either works fine).
+
+* Restart iSync.
+
+## License
+
+Copyright (c) 2009 Martin Kühl; released under [the MIT license][mit-license].
+
+Based on the [Nokia 6131 iSync plugin][apple-plugins] by [Apple][] and the [Nokia
+Series 40 iSync plugin][series40-plugins] by [James Loyd][james-loyd].
+
+[5220]: http://europe.nokia.com/A41163540 "Nokia Europe - Nokia 5220 XpressMusic support"
+[apple]: http://www.apple.com/ "Apple"
+[apple-plugins]: http://support.apple.com/kb/HT2824 "iSync: Supported mobile phones"
+[isync]: http://www.apple.com/isync "Apple - Mac OS X - Features - iSync Devices"
+[james-loyd]: http://www.james-lloyd.com/ "James Lloyd"
+[mit-license]: http://www.opensource.org/licenses/mit-license.php "The MIT License"
+[series40-plugins]: http://www.james-lloyd.com/scripts/nokia-series-40-isync-plugin/ "Nokia Series 40 iSync plugin"

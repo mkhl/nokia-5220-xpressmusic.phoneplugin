@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Nokia 5220 XpressMusic (based on 6131) v2.4, © Apple Computer</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.phoneplugin.com.nokia.5220</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Nokia 5220 XpressMusic</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.4</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>388</string>
+	<key>IPHPhoneConduitVersion</key>
+	<string>612.0</string>
+	<key>IPHPhonePluginUID</key>
+	<string>5C9C7E0C-2297-4010-A31C-LAHFKDSJHF</string>
+	<key>IPHPluginProviderName</key>
+	<string>Apple Inc.</string>
+	<key>IPHPluginSupportURL</key>
+	<string>http://www.apple.com/support/isync/</string>
+	<key>IPHPublicPluginVersion</key>
+	<string>1.0</string>
+</dict>
+</plist>

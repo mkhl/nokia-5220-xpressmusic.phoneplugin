@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Entities</key>
+	<dict>
+		<key>com.apple.calendars.AudioAlarm</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>triggerdate</string>
+			<string>triggerduration</string>
+			<string>owner</string>
+		</array>
+		<key>com.apple.calendars.Calendar</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>title</string>
+			<string>read only</string>
+			<string>com.apple.PhoneConduitExtension.uid</string>
+		</array>
+		<key>com.apple.calendars.DisplayAlarm</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>triggerdate</string>
+			<string>triggerduration</string>
+			<string>owner</string>
+		</array>
+		<key>com.apple.calendars.Event</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>original date</string>
+			<string>all day</string>
+			<string>exception dates</string>
+			<string>calendar</string>
+			<string>recurrences</string>
+			<string>main event</string>
+			<string>detached events</string>
+			<string>audio alarms</string>
+			<string>display alarms</string>
+			<string>start date</string>
+			<string>location</string>
+			<string>summary</string>
+			<string>end date</string>
+		</array>
+		<key>com.apple.calendars.Recurrence</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>frequency</string>
+			<string>count</string>
+			<string>until</string>
+			<string>interval</string>
+			<string>bymonth</string>
+			<string>byweeknumber</string>
+			<string>byyearday</string>
+			<string>bymonthday</string>
+			<string>bydayfreq</string>
+			<string>bydaydays</string>
+			<string>bysetpos</string>
+			<string>weekstartday</string>
+			<string>owner</string>
+		</array>
+		<key>com.apple.calendars.Task</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>due date is date only</string>
+			<string>calendar</string>
+			<string>audio alarms</string>
+			<string>display alarms</string>
+			<string>status</string>
+			<string>summary</string>
+			<string>due date</string>
+			<string>priority</string>
+		</array>
+		<key>com.apple.contacts.Contact</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>image</string>
+			<string>last name</string>
+			<string>company name</string>
+			<string>first name</string>
+			<string>job title</string>
+			<string>nickname</string>
+			<string>notes</string>
+			<string>birthday</string>
+			<string>email addresses</string>
+			<string>phone numbers</string>
+			<string>URLs</string>
+			<string>street addresses</string>
+		</array>
+		<key>com.apple.contacts.Email Address</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>contact</string>
+			<string>value</string>
+			<string>type</string>
+		</array>
+		<key>com.apple.contacts.Phone Number</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>contact</string>
+			<string>value</string>
+			<string>type</string>
+		</array>
+		<key>com.apple.contacts.Street Address</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>contact</string>
+			<string>city</string>
+			<string>state</string>
+			<string>street</string>
+			<string>country</string>
+			<string>type</string>
+			<string>postal code</string>
+		</array>
+		<key>com.apple.contacts.URL</key>
+		<array>
+			<string>com.apple.syncservices.RecordEntityName</string>
+			<string>contact</string>
+			<string>value</string>
+			<string>type</string>
+		</array>
+	</dict>
+	<key>Type</key>
+	<string>device</string>
+</dict>
+</plist>
